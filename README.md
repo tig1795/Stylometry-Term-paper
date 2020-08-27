@@ -1,1 +1,1 @@
-# Stylometry-Term-paper
+Comparison of Burrows Delta with Machine Learning methods for the Course "Stylometry" of the Julius-Maximilians-University, WS 19/20.
