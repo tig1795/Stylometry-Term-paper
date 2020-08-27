@@ -1,1 +1,1 @@
-Comparison of Burrows Delta with Machine Learning methods for the Course "Stylometry" of the Julius-Maximilians-University, WS 19/20.
+Comparison of different clustering methods regarding the possibility to cluster songs into genres based only on their lyrics for the course "Stylometry" of the Julius-Maximilians-University, WS 19/20.
