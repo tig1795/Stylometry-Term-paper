@@ -1,9 +1,11 @@
-Comparison of different clustering methods regarding the possibility to cluster songs into genres based only on their lyrics for the course "Stylometry" of the Julius-Maximilians-University, WS 19/20.
+Comparison of different clustering methods regarding the possibility to cluster songs into genres based 
+only on their lyrics for the course "Stylometry" of the Julius-Maximilians-University, WS 19/20.
 
 The data set and the various clustering procedures are divided into folders and structured as follows:
 Literatur
 
-    HC: hier werden die Beziehungen zwischen den Genres und Künstlern beschrieben, die für die Erklärung der Ausreißer benötigt wurden
+    HC: hier werden die Beziehungen zwischen den Genres und Künstlern beschrieben, 
+        die für die Erklärung der Ausreißer benötigt wurden
     Visualization_in_Stylometry
     Topic-modelling-with-scikitlearn
 
